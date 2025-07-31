@@ -2,7 +2,7 @@ This is an Simple Hobbist Operating system developed in C and X86.
 
 More System details are in the Zip file.
 
-This Operating System consists of all the main systems and modules.
+This Operating System consists of all the two main systems  and module subsystems like Device-Drivers.
 
 The systems and modules in this operating system includes the main system kernel, the subsystems like system-call interface and all the modules like Device Drivers, Memory management, Process management , Boot Loader.
 
